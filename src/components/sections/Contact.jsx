@@ -285,7 +285,13 @@ return (
             something
             <br />
 
-            remarkable?
+            <span
+                className="italic"
+                style={{ fontFamily: "Georgia, serif" }}
+              >
+                {" "}
+                Exceptional?
+              </span>
 
           </h2>
 
@@ -320,7 +326,7 @@ return (
                 href="tel:+918108111545"
                 className="hover:text-white transition"
               >
-                +91 81081 11545
+                +91 91671 92173
               </a>
 
             </div>

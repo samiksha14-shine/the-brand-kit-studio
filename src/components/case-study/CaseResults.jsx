@@ -4,7 +4,7 @@ export default function CaseResults({
   results = [],
 }) {
   return (
-    <section className="bg-[#ffffff] py-28 lg:py-36">
+    <section className="bg-[#FAFAFA] py-28 lg:py-36">
 
       <div className="mx-auto max-w-[1440px] px-8 lg:px-16">
 

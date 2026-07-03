@@ -162,7 +162,7 @@ export default function Footer() {
                 </li>
 
                 <li>
-                  hello@thebrandkitstudio.in
+                 thebrandkitsstudio@gmail.com
                 </li>
 
                 <li>

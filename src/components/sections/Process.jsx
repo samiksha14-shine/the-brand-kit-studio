@@ -44,7 +44,13 @@ export default function Process() {
             <br />
             Transparent.
             <br />
-            Effective.
+            <span
+                className="italic"
+                style={{ fontFamily: "Georgia, serif" }}
+              >
+                {" "}
+                Effective.
+              </span>
           </h2>
 
           <p className="mt-8 text-lg leading-9 text-neutral-400 max-w-[560px]">

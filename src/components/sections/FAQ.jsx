@@ -52,7 +52,14 @@ export default function FAQ() {
             <h2 className="mt-6 text-[58px] leading-[1.05] font-light tracking-[-2px] text-[#111]">
               Questions,
               <br />
-              answered.
+               <span
+                className="italic"
+                style={{ fontFamily: "Georgia, serif" }}
+              >
+                {" "}
+                answered.
+              </span>
+              
             </h2>
 
             <p className="mt-8 text-lg leading-9 text-neutral-600">
