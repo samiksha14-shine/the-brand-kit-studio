@@ -56,7 +56,7 @@ export default function Footer() {
                 </li>
 
                 <li>
-                  <HashLink smooth to="/#work" className="hover:text-black transition">
+                  <HashLink smooth to="/#projects" className="hover:text-black transition">
                     Work
                   </HashLink>
                 </li>
@@ -70,8 +70,6 @@ export default function Footer() {
               </ul>
 
             </div>
-
-            {/* Services */}
 
             {/* Services */}
 
@@ -106,7 +104,7 @@ export default function Footer() {
     <li>
       <HashLink
         smooth
-        to="/services/ui-ux-design"
+        to="/services/ui-ux"
         className="transition hover:text-black"
       >
         UI / UX Design
@@ -148,26 +146,36 @@ export default function Footer() {
 </div>
 
             {/* Contact */}
+<div>
 
-            <div>
+  <h4 className="text-lg font-medium text-[#111]">
+    Contact
+  </h4>
 
-              <h4 className="text-lg font-medium text-[#111]">
-                Contact
-              </h4>
+  <ul className="mt-6 space-y-4 text-neutral-600">
 
-              <ul className="mt-6 space-y-4 text-neutral-600">
 
-                <li>
-                  +91 91671 92173
-                </li>
+  <li>
+    <a
+      href="tel:+919167192173"
+      className="hover:text-black transition"
+    >
+      +91 91671 92173
+    </a>
+  </li>
 
-                <li>
-                 thebrandkitsstudio@gmail.com
-                </li>
+  <li>
+    <a
+      href="mailto:thebrandkitsstudio@gmail.com"
+      className="hover:text-black transition break-all"
+    >
+      thebrandkitsstudio@gmail.com
+    </a>
+  </li>
 
-                <li>
-                  Mumbai, Maharashtra
-                </li>
+  <li>
+    Mumbai, Maharashtra
+  </li>
 
               </ul>
 
@@ -210,7 +218,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="www.linkedin.com/in/samiksha-shinde-253a3a41b"
+              href="https://www.linkedin.com/in/samiksha-shinde-253a3a41b"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-black transition"
