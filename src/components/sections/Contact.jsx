@@ -323,7 +323,7 @@ return (
               <FiPhone size={20} />
 
               <a
-                href="tel:+918108111545"
+                href="tel:+919167192173"
                 className="hover:text-white transition"
               >
                 +91 91671 92173
