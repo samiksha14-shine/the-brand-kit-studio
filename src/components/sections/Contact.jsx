@@ -352,7 +352,7 @@ return (
               </a>
 
               <a
-                href="https://linkedin.com"
+                href="www.linkedin.com/in/samiksha-shinde-253a3a41b"
                 target="_blank"
                 rel="noreferrer"
                 className="h-12 w-12 rounded-full border border-neutral-700 flex items-center justify-center hover:bg-white hover:text-black transition"

@@ -210,7 +210,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="https://linkedin.com/"
+              href="www.linkedin.com/in/samiksha-shinde-253a3a41b"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-black transition"
