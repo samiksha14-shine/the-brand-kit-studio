@@ -24,16 +24,16 @@ export default function CartCrew() {
 
         <CaseHero
           category="Corporate Procurement"
-          title="Cart Crew"
+          title="Procurement Platform"
           highlight="Case Study."
           image={heroImage}
           description="Building a complete corporate procurement brand from the ground up through branding, website development, procurement portal UI, social media and digital marketing."
         />
 
         <CaseIntro
-          overview="Cart Crew approached The Brand Kit Studio during its early journey with a vision to build a trusted procurement company serving businesses across multiple industries. Starting from scratch, we developed the complete brand identity and established a strong digital ecosystem including the corporate website, procurement portal, marketing materials, presentations and social media presence. Today, we continue to support the brand's growth through design, branding and digital initiatives."
+          overview="This project involved creating a complete brand identity for a growing B2B procurement business looking to establish a strong and professional market presence. Starting from the ground up, we developed a cohesive visual identity and built an end-to-end digital ecosystem, including a corporate website, procurement portal, marketing collateral, presentations, and an ongoing social media presence. The result was a scalable brand system designed to support long-term business growth."
 
-          client="Cart Crew Pvt. Ltd."
+          client="B2B Procurement Company"
 
           industry="Corporate Procurement Solutions"
 
@@ -53,7 +53,7 @@ export default function CartCrew() {
         />
 
         <CaseChallenge
-          challenge="As a newly launched procurement company, Cart Crew required a professional identity that could build trust with corporate clients from day one. Without an established digital presence, the challenge was to communicate reliability, simplify complex procurement services and create a consistent brand experience across every customer touchpoint."
+          challenge="Launching a new procurement business requires more than just a logo or a website—it demands trust. The challenge was to create a cohesive brand and digital ecosystem that would position the business as a reliable procurement partner while simplifying its services through intuitive design, clear communication, and a consistent experience across every platform."
 
           solution="Rather than treating each requirement as an individual project, we built an integrated brand ecosystem. From logo design and visual identity to the corporate website, procurement portal interface, social media, presentations and marketing materials, every element was designed to communicate professionalism, trust and long-term scalability."
         />
@@ -68,7 +68,7 @@ export default function CartCrew() {
             {
               title: "Corporate Website",
               description:
-                "Designed and developed a modern responsive website that clearly communicates Cart Crew's procurement services.",
+                "Designed and developed a modern responsive website that clearly communicates the brands's procurement services.",
             },
             {
               title: "Procurement Portal",
@@ -119,7 +119,7 @@ export default function CartCrew() {
             {
               title: "Social Media Management",
               description:
-                "Consistent visual communication and branded content created to strengthen Cart Crew's online presence and support business growth.",
+                "Consistent visual communication and strategically designed content created to strengthen the brand's online presence, improve engagement, and support long-term business growth.",
               image: socialImage,
             },
           ]}
@@ -150,12 +150,12 @@ export default function CartCrew() {
             {
               title: "Ongoing Digital Presence",
               description:
-                "Continue to support Cart Crew through social media management, creative design and branding initiatives.",
+                "Providing continuous creative support through social media management, branded content, marketing collateral, and design initiatives to maintain a consistent and impactful digital presence.",
             },
             {
               title: "Long-Term Brand Partnership",
               description:
-                "Working alongside Cart Crew as its creative and digital partner, continuously evolving the brand as the business grows.",
+                "Continuing to support the business as its creative and digital partner, evolving the brand through strategic design, digital experiences, and ongoing marketing initiatives as it grows.",
             },
           ]}
         />

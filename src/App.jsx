@@ -116,7 +116,7 @@ export default function App() {
 />
 
 <Route
-  path="/projects/cartcrew"
+  path="/projects/procurement-platform"
   element={<CartCrew />}
 />
 
@@ -126,7 +126,7 @@ export default function App() {
 />
 
 <Route
-  path="/projects/fone2serve"
+  path="/projects/recruitment-platform"
   element={<Fone2Serve />}
 />
       </Routes>

@@ -22,16 +22,16 @@ export default function Fone2Serve() {
 
         <CaseHero
           category="Recruitment & Staffing"
-          title="Fone2Serve"
+          title="Recruitment Platform"
           highlight="Case Study."
           image={heroImage}
           description="Refreshing an established recruitment brand through strategic rebranding, a modern corporate website and professional business collateral."
         />
 
         <CaseIntro
-          overview="Fone2Serve approached The Brand Kit Studio to modernise its existing brand identity while retaining its recognised logo. The objective was to create a more professional and consistent brand presence across digital and print media. We refreshed the brand, redesigned business collateral, developed a modern corporate website and created presentations and marketing assets that better represent the company's recruitment expertise."
+          overview="This project focused on modernising the brand identity of an established recruitment and staffing company while preserving the recognition of its existing visual identity. The objective was to create a more cohesive brand experience across digital and print touchpoints through refreshed branding, a modern corporate website, business collateral, presentations, and marketing assets that better reflected the company's expertise and professionalism."
 
-          client="Fone2Serve"
+          client="Growing Recruitment Agency"
 
           industry="Recruitment & Staffing"
 
@@ -52,7 +52,7 @@ export default function Fone2Serve() {
         />
 
         <CaseChallenge
-          challenge="Although Fone2Serve had an established business and an existing logo, its overall branding lacked consistency across customer touchpoints. Marketing materials, business stationery and digital presence needed to reflect a more modern, professional and trustworthy recruitment company."
+          challenge="Although the business had an established business and an existing logo, its overall branding lacked consistency across customer touchpoints. Marketing materials, business stationery and digital presence needed to reflect a more modern, professional and trustworthy recruitment company."
 
           solution="Rather than redesigning the logo entirely, we refined and rebuilt the brand ecosystem around it. This included creating editable brand assets, designing professional stationery, developing presentations and pitch decks, building a responsive corporate website and ensuring every visual element followed a consistent corporate identity."
         />

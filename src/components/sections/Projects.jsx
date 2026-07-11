@@ -9,33 +9,33 @@ import fone2serve from "../../assets/projects/fone2serve.png";
 
 const projects = [
   {
-    category: "Automotive Branding",
+    category: "AUTOMOTIVE",
     link: "/projects/autovaultt",
-    title: "Auto Vaultt",
+    title: "Automotive Brand Experience",
     image: autovault,
     description:
       "Premium branding, website design and digital presence for an automotive detailing studio.",
   },
   {
-    category: "Procurement Platform",
-    link: "/projects/cartcrew",
-    title: "Cart Crew",
+    category: "B2B PLATFORM",
+    link: "/projects/procurement-platform",
+    title: "Procurement Portal",
     image: cartcrew,
     description:
       "Corporate website and procurement platform designed to simplify business purchasing.",
   },
   {
-    category: "Healthcare",
+    category: "HEALTHCARE",
     link: "/projects/therapist",
-    title: "Therapist Portfolio",
+    title: "Healthcare Practice Website",
     image: therapist,
     description:
       "A calm, modern website focused on trust, accessibility and client engagement.",
   },
   {
-    category: "Recruitment",
-    link: "/projects/fone2serve",
-    title: "Fone2Serve",
+    category: "RECRUITMENT",
+    link: "/projects/recruitment-platform",
+    title: "Recruitment & Staffing Platform",
     image: fone2serve,
     description:
       "Website and digital identity for a recruitment company connecting businesses with talent.",
